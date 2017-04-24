@@ -1,2 +1,4 @@
 # hello-world
-just a example
+Hi Humans!
+
+I am the number one
